@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { routeIqData } from "./routeIQData";
+import { routeIqData } from "./routeIqData";
 import "./App.css";
 
 
